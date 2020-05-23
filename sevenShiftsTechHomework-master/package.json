@@ -1,0 +1,23 @@
+{
+  "name": "sevenshiftstechhomework",
+  "version": "1.0.0",
+  "description": "Tech task for 7shifts interview",
+  "main": "stringCalc.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwitow/sevenShiftsTechHomework.git"
+  },
+  "author": "Jesse Witow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwitow/sevenShiftsTechHomework/issues"
+  },
+  "homepage": "https://github.com/jwitow/sevenShiftsTechHomework#readme"
+}
